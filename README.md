@@ -16,5 +16,9 @@ A simple lightweight, static Flask (Python) application deployed to GCP App Engi
 - templates/
 	- index.html
 
+**Resources Used:**
+App Script: Python - https://www.qwiklabs.com/focuses/1014?parent=catalog
+Writing a Basic Web Service for App Engine: https://cloud.google.com/appengine/docs/standard/python3/building-app/writing-web-service
+
 
 
